@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## EXO 1 
 
 Exo numéros un crée un compter avec deux boutton qui permette de gére le chiffre du dessus
+## EXO 2
+
+Exo numéros avec des boutton qqui s'afficher quand on appui sur celui si
 
 
 
