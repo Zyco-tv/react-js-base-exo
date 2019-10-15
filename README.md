@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## EXO 1 
 
 Exo numéros un crée un compter avec deux boutton qui permette de gére le chiffre du dessus
 
