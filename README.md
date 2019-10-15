@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Exo numéros un crée un compter avec deux boutton qui permette de gére le chiffre du dessus
+
+
+
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `npm start`
